@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: ""
 ---
 
 Hi , I am your friendly super hero Bekku mari. Checkout my projects!
-![Koro-sensei](aakashrevankar.github.io/assets/home-feature.jpg)
+
