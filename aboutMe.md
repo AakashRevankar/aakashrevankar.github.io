@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 --- 
 
-![image](round_photo.png)
+![image](round_mini.png)
 
 I graduated with a Master’s degree in Electronics Information and Computational Engineering from Trinity College Dublin. I also completed my Bachelor’s degree in Physical Science from a college affiliated with Bengaluru City University.
 

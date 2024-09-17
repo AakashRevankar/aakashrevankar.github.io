@@ -7,5 +7,5 @@ Hi! I’m Aakash Revankar. I specialize in Database Management, Statistics, Mach
 
 (Currently learning Data Structures on online platform)
 
-![image](aakash_new.jpg)
+![image](aakash_new2.png)
 
