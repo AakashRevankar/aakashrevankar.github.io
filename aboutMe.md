@@ -4,6 +4,8 @@ permalink: "/about/"
 layout: page
 --- 
 
+![image](round_photo.png)
+
 I graduated with a Master’s degree in Electronics Information and Computational Engineering from Trinity College Dublin. I also completed my Bachelor’s degree in Physical Science from a college affiliated with Bengaluru City University.
 
 During my undergraduate studies, I developed a strong interest in both Electronics and Computer Science. My project on Arduino UNO taught me the practical application of coding in home automation and robotics. This experience sparked my passion for exploring machine learning algorithms, as I was fascinated by their potential applications across various domains. Throughout my Master’s studies, I focused on implementing machine learning algorithms in signal processing systems, including Bayesian matting, clustering, regression, and classification.
